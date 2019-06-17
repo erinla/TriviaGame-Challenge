@@ -1,0 +1,16 @@
+body {
+    background-image: url("assets/images/record.jpg");
+  }
+
+.trivia {
+  border: white;
+  background-color:#db3545;
+  opacity: .9;
+}
+
+img {
+  width: 500px;
+  height: 250px;
+  
+}
+
